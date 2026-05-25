@@ -1,0 +1,7 @@
+# Assignment files
+readme.txt
+*.assignment
+assignment-notes.md
+
+# Optional: Keep this local if you want to version control but not deploy
+# .github/workflows/
